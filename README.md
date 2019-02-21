@@ -7,8 +7,11 @@ Here is what you will have
 - Enable and Disable Internet
 - Shortcuts
 - Shutdown
- -Update Log
--Taskill (BETA)
+-Update Log
+
+-Taskill System Stuff (BETA)
+
+-Crash OS (BETA)
 
 
 More soon!
