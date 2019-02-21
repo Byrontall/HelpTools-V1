@@ -7,7 +7,7 @@ Here is what you will have
 - Enable and Disable Internet
 - Shortcuts
 - Shutdown
--Update Log
+ -Update Log
 -Taskill (BETA)
 
 
